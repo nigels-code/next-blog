@@ -2,7 +2,7 @@
 
 I wrote this while following Maximilian Schwarzmuller's "Next.js and React" course.
 
-A Single Page Application using Next.js, React, Context API, MongoDB, JavaScript, HTML
+A Single Page Application using Next.js, React, MongoDB, JavaScript, HTML
 
 I have connected this repo to Vercel.  
 Open <https://next-blog-two-coral.vercel.app/> to see the project in production.
